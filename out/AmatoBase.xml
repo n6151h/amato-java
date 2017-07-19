@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<amatobase version="1.0">
+<operas>
+<opera name="Don G" composer="Mozart" librettist="" language="Italian" runtime="Forever">
+<synopses>
+<synopsis language="Italian"> runtime will display fine here</synopsis>
+</synopses>
+<roles>
+<role name="The Don" voice="baritone" order="1"/>
+</roles>
+</opera>
+<opera name="L'Elisir D'Amore" composer="Donezetti, Gaetano" librettist="" language="Italian" runtime="2:30">
+<alternateName name="The Elixer of Love" language="English"/>
+<synopses>
+<synopsis language="English">
+</synopsis>
+</synopses>
+<roles>
+<role name="Nemorino" voice="tenor" order="1"/>
+<role name="Adina" voice="soprano" order="2"/>
+<role name="Belcore" voice="baritone" order="3"/>
+<role name="Dulcamara" voice="baritone" order="4"/>
+<role name="Gianetta" voice="mezzo" order="5"/>
+</roles>
+</opera>
+<opera name="La Boheme" composer="Puccini, Giaccomo" librettist="" language="Italian" runtime="2:50">
+<synopses>
+<synopsis language="Italian"> Alice in the Latin Quarter of Paris, 150 or so years ago.</synopsis>
+</synopses>
+<roles>
+<role name="Rodolfo" voice="tenor" order="1"/>
+<role name="Mimi" voice="soprano" order="2"/>
+<role name="Musetta" voice="soprano" order="3"/>
+<role name="Marcello" voice="baritone" order="4"/>
+</roles>
+</opera>
+<opera name="La Traviata" composer="Verdi, Giusseppe" librettist="" language="Italian" runtime="3:00">
+<synopses>
+<synopsis language="Italian">til she dies.	</synopsis>
+</synopses>
+<roles>
+<role name="Violetta" voice="coloratura" order="1"/>
+<role name="Alfredo" voice="tenor" order="2"/>
+</roles>
+</opera>
+<opera name="Rigoletto" composer="Verdi, Giusseppe" librettist="" language="Italian" runtime="3:00">
+<alternateName name="The Taming of the Schmoo" language="English"/>
+<synopses>
+<synopsis language="English">
+</synopsis>
+</synopses>
+<roles>
+<role name="Rigoletto" voice="baritone" order="1"/>
+<role name="Gilda" voice="coloratura soprano" order="2"/>
+<role name="Duca di Mantova" voice="tenore" order="3"/>
+<role name="Magdalena" voice="mezzo soprano" order="4"/>
+<role name="Sparafucile" voice="bass" order="5"/>
+<role name="Bursa" voice="tenor" order="6"/>
+</roles>
+</opera>
+<opera name="Tannhauser" composer="Wagner, Richard" librettist="" language="German" runtime="4:00">
+<synopses>
+<synopsis language="Italian">Tanny boy gets waxed (poetically) in Venusburg.</synopsis>
+</synopses>
+<roles>
+</roles>
+</opera>
+</operas>
+<roster>
+<conductor first_name="Tony" last_name="Amato" street="319 Bowery" city="New York" state="NY" zip="10003" country="USA" email="info@amato.org" phone="212.228.8200" status="active"/>
+<musician first_name="Bill" last_name="Blowhard" street="1313 Mockingbird Lane" city="Los Angeles" state="CA" zip="90210" country="USA" email="bb@nowhere.com, foo@gooogle.com" phone="212.555.1212" status="active" instrument="dobro, kazoo, zither"/>
+<conductor first_name="Christofer" last_name="Fecteau" street="319 Bowery" city="New York" state="NY" zip="10003" country="USA" email="info@amato.org" phone="212.228.8200" status="active"/>
+<singer first_name="Nick" last_name="Incarnato" street="31 River Ct. #2001" city="Jersey City" state="NJ" zip="07310" country="USA" email="tenore@nickincarnato.com" phone="646.625.9609" status="active" voice="tenor, baritone" fach="lyric" level="principal"/>
+<singer first_name="Bengi" last_name="Mayone" street="31 River Ct.  #2001" city="Jersey City" state="NJ" zip="07310" country="USA" email="sopranissimo1@aol.com" phone="646.217.9503, 201.626.4193" status="active" voice="soprano" fach="lyric coloratura" level="principal"/>
+<director first_name="Nick" last_name="Seidenman" street="31 River Ct.  #2001" city="Jersey City" state="NJ" zip="07310" country="USA" email="nick@seidenman.net" phone="201.626.4193" status="active"/>
+<singer first_name="Bill" last_name="Stafford" street="11 Margate Dr" city="Ft Lauderdale" state="FL" zip="33333" country="USA" email="" phone="954.555.1212" status="active" voice="baritone" fach="lyric" level="principal"/>
+<singer first_name="Peter" last_name="Trapani" street="123 Delray Beach Dr" city="Delray Beach" state="FL" zip="33410" country="USA" email="pt@trapani.com" phone="646.625.9609" status="active" voice="tenor" fach="lyric" level="principal"/>
+</roster>
+<seasons>
+<season name="2004-2005" startDate="15 Sep 2004" endDate="15 Jun 2005">
+<productions>
+<production name="L'Elisir D'Amore" composer="Donezetti, Gaetano" libretto="Ricordi" openDate="05-15-2005" closeDate="06-15-2005">
+<performances>
+<performance  date="5/14/2005" time="19:30" conductor="Amato">
+<cast first_name="Bengi" last_name="Mayone" role="Adina" call="on"/>
+<cast first_name="Nick" last_name="Incarnato" role="Nemorino" call="on"/>
+<cast first_name="Peter" last_name="Trapani" role="Nemorino" call="cover"/>
+</performance>
+<performance  date="5/15/2005" time="19:30" conductor="Amato">
+<cast first_name="Bengi" last_name="Mayone" role="Adina" call="on"/>
+<cast first_name="Peter" last_name="Trapani" role="Nemorino" call="on"/>
+</performance>
+<performance  date="5/16/2005" time="14:00" conductor="Amato">
+</performance>
+<performance  date="5/21/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="5/22/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="5/23/2005" time="14:00" conductor="Fecteau">
+</performance>
+<performance  date="5/28/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="5/29/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="5/30/2005" time="14:00" conductor="Amato">
+</performance>
+<performance  date="6/11/2005" time="19:30" conductor="Fecteau">
+</performance>
+<performance  date="6/12/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="6/4/2005" time="19:30">
+</performance>
+<performance  date="6/5/2005" time="19:30" conductor="Amato">
+</performance>
+<performance  date="6/6/2005" time="14:00" conductor="Amato">
+</performance>
+</performances>
+</production>
+</productions>
+</season>
+</seasons>
+</amatobase>
